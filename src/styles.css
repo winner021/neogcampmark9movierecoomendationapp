@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: chartreuse;
+}
+
+.btn {
+  border: 2px solid black;
+}
